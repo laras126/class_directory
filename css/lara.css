@@ -1,0 +1,84 @@
+
+body {
+	font-family: 'Roboto Slab', serif;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #349D5C;
+}
+
+
+a:hover {
+	color: #412D86;
+	text-shadow: none;
+	position: relative;
+	top: 1px;
+	left: 1px;
+}
+
+a:active {
+	top: 2px;
+	left: 2px;
+	text-shadow: none;
+	color: #000;
+}
+
+h1 {
+	font-size: 1.75em;
+	text-shadow: 1px 1px 0 #444;
+	font-weight: bold;
+}
+
+h3 {
+	margin-top: 50px;
+}
+
+.wrapper {
+	width: 600px;
+	margin: 50px auto;
+}
+
+.site-header {
+	border-bottom: 1px dashed #aaa;
+	padding-bottom: 20px;
+}
+
+.status {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.status li {
+	padding-bottom: 10px;
+}
+
+.status-title {
+	font-weight: bold;
+}
+
+.avatar {
+	float: right;
+	margin-left: 10px;
+	width: 300px;
+}
+
+.main-content img {
+	border: 2px solid #B3DCE6;
+}
+
+.site-footer {
+	margin-top: 50px;
+	border-top: 1px dashed #aaa;
+}
+
+/* http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
