@@ -9,7 +9,9 @@ a:hover{
 	position: relative;
 	top: 1px;
 	left: 1px;
+	transition: color 2s;
 }
+
 .wrapper {
 	width:100%;
 	max-width: 600px;
@@ -19,6 +21,12 @@ a:hover{
 .responsiveimg {
 	width: 100%;
 	max-width: 600px;
+	transition: width 2s, height 2s;
+}
+
+.responsiveimg:hover {
+	width:110%;
+	height:110%;
 }
 
 #headerimg {
@@ -27,6 +35,13 @@ a:hover{
 	float: right;
 	border-style: inset;
 	border-color: orange;
+
+}
+
+@media all and (max-width:500px){
+	#headerimg {
+		float: none;
+	}
 }
 
 .site-header {
