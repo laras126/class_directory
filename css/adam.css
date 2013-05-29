@@ -1,0 +1,44 @@
+
+body {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 100%;
+}
+a:hover{
+	color: #412D86;
+	text-shadow: none;
+	position: relative;
+	top: 1px;
+	left: 1px;
+}
+.wrapper {
+	width:100%;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.responsiveimg {
+	width: 100%;
+	max-width: 600px;
+}
+
+#headerimg {
+	width:100%;
+	max-width: 300px;
+	float: right;
+	border-style: inset;
+	border-color: orange;
+}
+
+.site-header {
+	width: 100%;
+}
+/* http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
