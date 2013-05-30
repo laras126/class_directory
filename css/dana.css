@@ -1,0 +1,145 @@
+
+html, body {height: 100%;}
+
+body {
+	margin: 0;
+	background: url('../img/dana/gfpattern.jpg') #dc0;
+		font: 1em helvetica,sans-serif;
+
+}
+
+.wrapper {
+	width: 900px;
+	background: rgba(255,255,120,0.8);
+	padding: 10px;
+
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -142px;
+}
+
+img {
+	width: 70%;
+	display: block;
+	float: right;
+	border: solid #dc0;
+	border-width: 10px 0 10px 20px;
+	margin: 0 -10px 10px 20px;
+
+}
+
+
+.site-header {
+	border-bottom: 1px dashed #aaa;
+}
+
+h1 {
+	font: 1.4em alef,helvetica,sans-serif;
+
+	color: #333;
+}
+
+h3 {
+	font: 1.2em;
+		font-weight: normal;
+	color: #666;
+}
+
+p {
+	color: #235;
+}
+
+a {
+	color: #61202E;
+}
+
+a:active, a:hover {
+	color: #FF0B28;
+	text-decoration: none;
+}
+
+iframe {
+	float: left;
+	border: solid #dc0;
+	border-width: 10px 20px 10px 0px;
+	margin: 0 20px 10px -10px;
+}
+
+#effect {
+	width: 100px;
+	height: 100px;
+	background: red;
+	float: left;
+	text-align: center;
+
+
+	transition: width 3s linear 2s;
+	/* Safari */
+	-webkit-transition:width 1s linear 1s;
+} 
+
+#effect:hover {
+	width: 920px;
+}
+
+#effect_box {
+
+	background: white;
+	width: 920px;
+	height: 100px;
+	margin: 0 -10px;
+	float: left;
+
+
+}
+
+#avatar {
+    background: url('img/dana/dana_dc.jpg') no-repeat;
+    height: 720px;
+    width: 540px;
+    float: right;
+	border: solid #dc0;
+	border-width: 10px 0 10px 20px;
+	margin: 0 -10px 10px 20px;
+}
+
+#avatar:hover {
+    background: url('img/dana/dana_group.jpg')  no-repeat;
+}
+
+
+#footer {
+
+	height: 142px; 
+	text-align: center;
+
+}
+
+
+ 
+
+
+.status {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.status li {
+	padding-bottom: 10px;
+}
+
+.status-title {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
