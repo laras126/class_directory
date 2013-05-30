@@ -1,0 +1,76 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+body {
+	margin-top: 2em;
+	background-color: #eaeaea;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+	font-size:2.5em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.avatar {
+	border-radius: 50%;
+	border: 1px solid gray;
+	max-width: 200px;
+	max-height:200px;
+}
+
+.muted {
+	color: gray;
+}
+
+a:hover {
+	color: #27B63C;
+}
+
+.main-content {
+	background-color: #fff;
+	padding: 2em;
+	box-shadow: 1px 1px 1px 1px #ccc;
+}
+
+.main-content p {
+	font-size: 1.5em;
+}
+
+hr {
+	border: 1px transparent;
+}
+
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
