@@ -1,3 +1,9 @@
 .wrapper {
 	width: 600px;
 }
+
+.emily {
+	font-weight: bold;
+	padding-left: 25px;
+	text-decoration: underline;
+}
