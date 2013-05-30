@@ -7,11 +7,11 @@ CSS! It's tha bess!
 Instructions
 ************
 
-1. Rename your_name.html to, well, your name e.g. lara.html
+ok 1. Rename your_name.html to, well, your name e.g. lara.html
 
-2. Add information to the page (name, about paragraph, favorite things, photo). Keep your photos in img/your_name/.
+ok 2. Add information to the page (name, about paragraph, favorite things, photo). Keep your photos in img/your_name/.
 
-3. Make it beautiful! Rename your_name.css to, well your name. Be sure to change the relative path at the top of your_name.html.
+ok 3. Make it beautiful! Rename your_name.css to, well your name. Be sure to change the relative path at the top of your_name.html.
 
 4. Add a link to your page in index.html. Make the text look unique.
 
@@ -30,9 +30,9 @@ Tasks
 
 Level 1
 -------
-1. Make links a different color when hovered over
+ok 1. Make links a different color when hovered over
 2. Add a border to your profile pic
-3. Embed your favorite YouTube video
+ok 3. Embed your favorite YouTube video
 4. Commit and push changes
 
 
@@ -40,7 +40,7 @@ Level 1
 Level 2
 -------
 1. Use CSS3 transitions
-2. Use a webfont
+ok 2. Use a webfont
 3. Use the HTML dictionary tag correctly
 4. Commit and push changes
 
