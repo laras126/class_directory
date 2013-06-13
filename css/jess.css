@@ -1,0 +1,109 @@
+
+body{
+	font-family:Global-Medium;
+	margin-left:0px;
+	background-image:url('jessbackground.png');
+	background-color:#a17636;
+	color:#eeeecd;
+}
+
+body h2{
+	margin-top:90px;
+	margin-left:70px;
+	float:left;
+}
+
+div{
+	margin-left:200px;
+}
+
+.aboutme{
+	margin:75px 75px 50px 75px;
+	padding-top:0px;
+	padding-bottom: 0px
+}
+
+.photo{
+	float:right;
+	margin-right:150px;
+	margin-left:0px;
+}
+
+.photo h5{
+	text-align: center;
+}
+
+.avatar {
+	float: right;
+	width:20em;
+	height:24em;
+	border:3px solid black;
+}
+
+a:hover{
+	color:#b8683d;
+}
+
+.cf h5{
+	margin-bottom:-50;
+}
+
+#cf { 
+	left: 0; 
+	top: 0;
+	margin-left:200
+}
+
+#cf img.bottom {
+  position: relative; 
+  top: 0; 
+  left: 0;
+  margin-left:155px;
+}
+
+#cf img{
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top {
+	position: absolute;
+	top: 30; 
+	left: 0;
+	margin-left:200;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+
+img{
+	border:3px solid black;
+	margin-left:75px;
+}
+
+.musings{
+	border:3px solid black;
+	margin:50px 25px 50px 500px !important;
+	padding: 35px 35px 35px 35px;
+	background-color:#eeeecd;
+	color:#22190b;
+}
+
+.vid{
+	float:left;
+	border: 3px solid black;
+	margin-bottom:100px;
+}
+
+.thisaintnofooter{
+	float:right;
+	text-align:center;
+	margin: 100px 200px 200px 75px;
+	border:3px solid black;
+	padding:20px;
+	background-color:#eeeecd;
+	color:#22190b;
+}
